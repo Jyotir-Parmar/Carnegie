@@ -2,3 +2,13 @@
     border-bottom: 1px solid #e2e1e1;
     padding-bottom: 2rem;
 }
+.btnmargin{
+    margin-top: 10px;
+}
+.collageaddr{
+    font-size: 0.7rem; 
+}
+.stats{
+    font-size: 0.8rem;
+    font-weight: 500;
+}

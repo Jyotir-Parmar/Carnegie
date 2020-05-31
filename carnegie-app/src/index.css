@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 0.9rem;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.textviewholder{
+  padding: 2rem 0;
+  border-bottom: 1px solid #e2e1e1;
+}
+
+.panelname{
+  font-size: 1rem;
+  font-weight: bold;
 }
